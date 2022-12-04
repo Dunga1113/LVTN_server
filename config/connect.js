@@ -1,10 +1,10 @@
 const { Pool } = require('pg')
 
 POSTGRES_USER = 'postgres'
-POSTGRES_HOST = 'containers-us-west-142.railway.app'
+POSTGRES_HOST = 'containers-us-west-102.railway.app'
 POSTGRES_DB = 'railway'
-POSTGRES_PWD = '0fvzRNj9sqXJACfDrX6X'
-POSTGRES_PORT = '5606'
+POSTGRES_PWD = '0NZZASGvCsKDqIvcFkQj'
+POSTGRES_PORT = '6843'
 
 const pgConfig = {
   user: POSTGRES_USER,
