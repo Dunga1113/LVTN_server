@@ -8,10 +8,10 @@ POSTGRES_PORT = '6843'
 */
 
 POSTGRES_USER = 'postgres'
-POSTGRES_HOST = 'containers-us-west-162.railway.app'
+POSTGRES_HOST = 'containers-us-west-143.railway.app'
 POSTGRES_DB = 'railway'
-POSTGRES_PWD = '73GNxXbmSaUDv3wHxuue'
-POSTGRES_PORT = '5633'
+POSTGRES_PWD = 'UClGYYbwR42kWq9vgiHA'
+POSTGRES_PORT = '7096'
 
 const pgConfig = {
   user: POSTGRES_USER,
